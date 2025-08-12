@@ -132,6 +132,7 @@ These cover **Data Science**, **Machine Learning**, **Data Analysis**, **Web Dev
 - 🐍 **Snake Game Data** – Python
 - 🏬 **Superstore Sales Dashboard** – Tableau
 - 🌍 **World Bank Data Analysis** – Python
+- 📈 **Data Cleaning Using Numpy and Pandas**
 </details>
 
 ---
